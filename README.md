@@ -1,4 +1,4 @@
-# AHP_Login
+# AHP_Login (Aanalytical Hierarchy Proccess)
  Improvement of Authorization in APP, the backend same as before adding more react using javascript to make the view more friendly
  
 <img width="400" height="200" src="https://github.com/Krylliac/AHP_Login/assets/117600120/7898dc94-25e7-4ac4-96c8-63b08993afbb">
